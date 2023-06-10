@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=21&duration=1500&pause=2000&color=EEF7EC&vCenter=true&width=320&lines=Hey!+I'm+Krystian;I'm+a+Front+End+Developer)](https://git.io/typing-svg) 👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=21&duration=2000&pause=2000&color=EEF7EC&vCenter=true&width=320&lines=Hey!+I'm+Krystian+%F0%9F%91%8B;I'm+a+Front+End+Developer)](https://git.io/typing-svg)
 
 
 
