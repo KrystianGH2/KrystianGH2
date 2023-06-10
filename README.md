@@ -9,7 +9,7 @@
   
 </div>
   
-  # [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=27&duration=2000&pause=2000&color=EEF7EC&vCenter=true&width=340&lines=Hey+there!+I'm+Krystian+%F0%9F%91%8B;I'm+a+Front+End+Developer)](https://git.io/typing-svg)
+  # [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=27&duration=2000&pause=3000&color=EEF7EC&vCenter=true&width=340&lines=Hey+there!+I'm+Krystian+%F0%9F%91%8B;I'm+a+Front+End+Developer)](https://git.io/typing-svg)
 </div>
 
 
