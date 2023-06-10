@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 
 
 ### :fire: My Stats : 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KrystianGH2)](https://git.io/streak-stats)
-### ![My most used](https://github-readme-stats.vercel.app/api/top-langs/?username=KrystianGH2&layout=compact&hide_progress=false)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KrystianGH2&show_icons=true&theme=radical)
+![My most used](https://github-readme-stats.vercel.app/api/top-langs/?username=KrystianGH2&layout=compact&hide_progress=false&&theme=radical)
 
 
 
