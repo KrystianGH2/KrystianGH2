@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=21&duration=1500&pause=2000&color=EEF7EC&vCenter=true&width=320&lines=Hey!+I'm+Krystian;I'm+a+Front+End+Developer)](https://git.io/typing-svg)
 <!--
 **KrystianGH2/KrystianGH2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
