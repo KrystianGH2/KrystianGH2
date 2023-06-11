@@ -59,6 +59,13 @@ Here are some ideas to get you started:
 ![My most used](https://github-readme-stats.vercel.app/api/top-langs/?username=KrystianGH2&layout=compact&hide_progress=false&&theme=radical)
 
 
+## List of My Projects
+
+- [Project Exam 1: Travel Website](https://exploretravelsite.netlify.app/) / [GithubRepo](https://github.com/Noroff-FED-Campus-Assignments/fed1-exam-KrystianGH2)
+- [Semester Project: Community Science Museum](https://communitysciencemuseum-kgc.netlify.app/csmuseum.html) /  [Github repo](https://github.com/KrystianGH2/Community-Science-Museum)
+- [Cross-course Project: GameHub](https://gamehubcakgc.netlify.app/) / [GithubRepo](https://github.com/KrystianGH2/Game-Hub-CA)
+
+
 
 
 
