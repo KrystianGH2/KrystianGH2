@@ -13,7 +13,8 @@
 </div>
 
 
-
+## About Me 👨‍💻
+I am a passionate front-end developer with a strong interest in modern web technologies. I love creating visually appealing and user-friendly projects. As a first-year student at Noroff Vocational College, I have a solid foundation in HTML, CSS, and JavaScript and I'm actively exploring frameworks. I thrive on learning new tools and technologies, constantly evolving my skills as a front-end developer
 
 
 
@@ -50,6 +51,14 @@ Here are some ideas to get you started:
   <img
     src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"
     alt="Figma badge"
+  />
+   <img
+    src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white"
+    alt="wordpress"
+  />
+   <img
+    src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white"
+    alt="netlify"
   />
 </div>
 
