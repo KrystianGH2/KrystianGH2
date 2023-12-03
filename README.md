@@ -60,6 +60,23 @@ Here are some ideas to get you started:
     src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white"
     alt="netlify"
   />
+  <img
+    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+    alt="react"
+  />
+   <img
+    src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"
+    alt="cypress"
+  />
+   <img
+    src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
+    alt="tailwind css"
+  />
+
+ 
+
+
+
 </div>
 
 
