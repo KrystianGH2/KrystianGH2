@@ -86,6 +86,7 @@ Here are some ideas to get you started:
 
 
 ## List of My Projects
+- [BidBuddies Auction Site](https://bidbuddies.netlify.app/home)
 - [Portfolio 1](https://porfolio-kgc.netlify.app/)
 - [Project Exam 1: Travel Website](https://exploretravelsite.netlify.app/) / [GithubRepo](https://github.com/Noroff-FED-Campus-Assignments/fed1-exam-KrystianGH2)
 - [Semester Project: Community Science Museum](https://communitysciencemuseum-kgc.netlify.app/csmuseum.html) /  [Github repo](https://github.com/KrystianGH2/Community-Science-Museum)
