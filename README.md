@@ -14,7 +14,7 @@
 
 
 ## About Me 👨‍💻
-I am a passionate front-end developer with a strong interest in modern web technologies. I love creating visually appealing and user-friendly projects. As a first-year student at Noroff Vocational College, I have a solid foundation in HTML, CSS, and JavaScript and I'm actively exploring frameworks. I thrive on learning new tools and technologies, constantly evolving my skills as a front-end developer
+I am a passionate front-end developer with a strong interest in modern web technologies. I love creating visually appealing and user-friendly projects. As a second-year student at Noroff Vocational College, I have a solid foundation in HTML, CSS, and JavaScript and I'm actively exploring frameworks. I thrive on learning new tools and technologies, constantly evolving my skills as a front-end developer
 
 
 
